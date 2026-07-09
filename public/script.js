@@ -143,7 +143,7 @@ const KNOWLEDGE_BASE = [
     answer: "The Hagnaya to Santa Fe ferry costs approximately \u20B1300 per passenger. Direct buses from Cebu City that drive straight onto the ferry are also available."
   },
   {
-    keywords: ['kota beach', 'kota'],
+    keywords: ['kota beach', 'kota', 'beaches'],
     answer: "Kota Beach in Santa Fe is considered one of the island's most picturesque beaches, known for its turquoise sandbar that's most pronounced in summer. It fronts Kota Beach Resort."
   },
   {
